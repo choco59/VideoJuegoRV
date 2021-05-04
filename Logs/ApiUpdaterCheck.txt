@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 03/05/2021 06:12:31 p. m. : Starting E:/Programas Instalados/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 624.7738ms
+moved types parse time: 92ms
+candidates parse time : 14ms
+C# parse time         : 626ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/05/2021 06:14:18 p. m. : Starting E:/Programas Instalados/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 729.5885ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 254ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/05/2021 07:06:37 p. m. : Starting E:/Programas Instalados/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 217.1215ms
+moved types parse time: 85ms
+candidates parse time : 2ms
+C# parse time         : 381ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/05/2021 07:07:23 p. m. : Starting E:/Programas Instalados/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 138.9144ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 334ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03/05/2021 07:07:43 p. m. : Starting E:/Programas Instalados/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.902ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 302ms
+candidates check time : 44ms
+console write time    : 0ms
+
